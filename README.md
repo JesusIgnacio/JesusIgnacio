@@ -1,6 +1,12 @@
-### Hi there 👋
+Hey you😄! My name is Jesus Ignacio as my repo... ha! I'm Software Engineer that loves what he does.
+- You can find my art here, some really good examples and another ramdom beginner stuff.
+- My thoughts about code -> <a href="https://twitter.com/thinkingoutcode" target="_blank">`@thinkingoutcode`</a>.
+- Some of my software dev adventures -> <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
+- Some about my background -> <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
-<!--
+> Isaiah 55:11
+> Jesus nevers returns void.
+ <!--
 **JesusIgnacio/JesusIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
