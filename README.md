@@ -5,7 +5,7 @@ Hey you😄! My name is Jesus Ignacio as my repo... ha! I'm a Software Engineer 
 - Some about my background -> <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
 > Isaiah 55:11
-> Jesus nevers returns void.
+> Jesus never returns void.
  <!--
 **JesusIgnacio/JesusIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
