@@ -1,5 +1,5 @@
 Hey you😄! My name is Jesus Ignacio as my repo... ha! I'm a Software Engineer that loves what he does.
-- You can find my art here, some really good examples and another ramdom beginner stuff.
+- You can find my art here, some really good examples and another random beginner stuff.
 - My thoughts about code -> <a href="https://twitter.com/thinkingoutcode" target="_blank">`@thinkingoutcode`</a>.
 - Some of my software dev adventures -> <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
 - Some about my background -> <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
