@@ -14,4 +14,63 @@ Hey you😄! My name is Jesus Ignacio as my repo... ha! I'm a Software Engineer 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 > Isaiah 55:11
 > Jesus never returns void.
+<!--About my tech skills:
 
+	Programming Languages in order of fluency.
+		Java
+		JavaScript
+		Ruby
+		TypeScript
+		Python
+		GO
+
+	Frameworks used:
+		Spring <Version>
+		Django <Version>
+		Angular <Version>
+		AngularJS<Version>
+		RoR <Version>
+		ReactJS <Version>
+		Bootstrap <Version>
+
+	Arquitecture used:
+
+
+	Design Pattern used:
+
+	
+	Databased used:
+
+	Sql
+		MySql
+		PostgreSql
+		Oracle
+
+	NoSql
+		Redis
+		DynamoDB
+		MongoDB
+
+	Repository Tools:
+		Github
+		Gitlab
+		BitBucket
+
+I've been developing software for
+	Financial time
+I've been coding on .....
+	Language version years
+I've been working with frameworks and librarys like
+	Framework version years
+I've been working with code standars like
+	tatata in
+I resolved issues related with...
+	topic -> solution
+I've worked with cloud on
+	AWS -> details
+I'm very weak on
+	css
+	other clouds apart from aws
+	
+My porpuose as a Software Engineer is make a career oriented to build tools for software developers and share with they my knowledge and work experience
+-->
