@@ -1,51 +1,43 @@
-Hey you😄! My name is Jesus Ignacio as my repo... ha! I'm a Software Engineer that loves what he does.
+Hey you😄 
 
-**I've been coding on:**
-- Java. -v 6-11, for 5 years.
-- JavaScript. -v ES5-ES6, for 3 years.
-- Python. -v 2.7, for 1 year.
-- TypeScript. -v 1-2, for 2 years.
-- Ruby. -v 2.3, for 2 years.
-- Go. -v 1.12 , for lerning porpouse only.
+I'm a Software Engineer who loves to build awesome stuff starting with code always as it possible.
 
-**I've been working with frameworks like:**
-- Angular . -v 2-8, for 3 years.
-- Spring. -v 3-4, for 4 years.
-- Django. -v 1-2 , for 1 year.
-- Rails. -v 3-4, for 2 years.
+I spoke : EN/ES
 
-**I've been working with JS in:**
-- JQuery.js . -v 2-3 , for 2 years.
-- React.js . -v 15-16 , for 1 year.
-- Angujar.js. -v 1.6-1.7, for 2 years.
-- Express.js, -v 2-4 , for 1 year.
-- NodeJS, -v 9-11, for 2 years.
+I code in: 
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 
-**I've been working with database SQL/NoSQL like:**
-- Redis. -v 4-6, for 2 years, personally i love it.
-- DynamoDB for 2 years.
-- PostgreSQL -v 9-10, for 5 years.
-- MySQL. -v 5-8, for 3 years.
+Mixed with:
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js) 
+![Springframework](https://img.shields.io/badge/-Spring-black?style=flat&logo=Spring)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django)
 
 
-**You can find some more about me:**
-- My thoughts about code -> <a href="https://twitter.com/thinkingoutcode" target="_blank">`@thinkingoutcode`</a>.
-- Some of my software dev adventures -> <a href="https://medium.com/@thinkingoutcode" target="_blank">`medium.com/@thinkingoutcode`</a>.
-- Some about my background -> <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
+Storing data in:
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=Redis)
+![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat&logo=Postgresql)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?style=flat&logo=Dynamo)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=MongoDB)
+
+
+
+Built and runned helping by:
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) 
+![Aws](https://img.shields.io/badge/Aws-black?style=flat&logo=Aws)
+ 
+
+🎯 You can find my art here, some really good examples and another random beginner stuff.
+
+🎯 My porpuose as a Software Engineer is make a career oriented to build tools for software developers and share with they my knowledge and work experience.
+
+🧠 My thoughts about code  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThinkingOutCode)
+
+:rocket: Some of my software dev adventures <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
+
+:sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
 > Isaiah 55:11
 > Jesus never returns void.
- <!--
-**JesusIgnacio/JesusIgnacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
