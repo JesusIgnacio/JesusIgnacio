@@ -35,15 +35,9 @@ Built and runned helping by:
 
 🧠 My thoughts about code  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThinkingOutCode)
 
-:rocket: Some of my software dev adventures(i've only have share once until this moment) <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
+:rocket: Some of my software dev adventures <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
 
 :sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
-
-
-
-
-
-
 
 > Isaiah 55:11
 > Jesus never returns void.
