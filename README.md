@@ -2,7 +2,7 @@ Hey you😄
 
 I'm a Software Engineer who loves to build awesome stuff starting with code always as it possible.
 
-I spoke : EN/ES
+I speak : EN/ES
 
 I code in: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
