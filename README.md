@@ -30,7 +30,7 @@ Built and runned helping by:
 
 🧠 My thoughts about code  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThinkingOutCode)
 
-:rocket: Some of my software dev adventures <a href="http://dev.to/JesusIgnacio" target="_blank">`dev.to/JesusIgnacio`</a>.
+:rocket: Some of my software dev adventures <a href="medium.com/@thinkingOutCode" target="_blank">`@thinkingOutCode`</a>.
 
 :sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
