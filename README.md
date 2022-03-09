@@ -24,13 +24,11 @@ Built and runned helping by:
 ![Aws](https://img.shields.io/badge/Aws-black?style=flat&logo=Aws)
  
 
-🎯 You can find my art here, some really good examples and another random beginner stuff.
+🎯 You can find my art here, some really good examples and experiments.
 
 🎯 My porpuose as a Software Engineer is make a career oriented to build tools for software developers and share with they my knowledge and work experience.
 
-🧠 My thoughts about code  ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThinkingOutCode)
-
-:rocket: Some of my software dev adventures <a href="https//www.thinkingoutcode.medium.com" target="_blank">`thinkingOutCode`</a>.
+🧠 My thoughts about code  <a href="https://thinkingoutcode.medium.com/" target="_blank">`@thinkingoutcode`</a>.
 
 :sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
