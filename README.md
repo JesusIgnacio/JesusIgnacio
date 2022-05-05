@@ -32,5 +32,8 @@ Built and runned helping by:
 
 :sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
 
+<p><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusIgnacio&show_icons=true&locale=en&layout=compact" alt="JesusIgnacio" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusIgnacio" alt="JesusIgnacio" /> </a></p>
+
 > Isaiah 55:11
 > Jesus never returns void.
