@@ -30,7 +30,7 @@ Built and runned helping by:
 
 🧠 My thoughts about code  <a href="https://thinkingoutcode.medium.com/" target="_blank">`@thinkingoutcode`</a>.
 
-:sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/jesuscastillobarraez/" target="_blank">`Linkedin`</a>.
+:sunglasses:  Some about my background  <a href="https://www.linkedin.com/in/castillo-jesus/" target="_blank">`Linkedin`</a>.
 
 <p><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusIgnacio&show_icons=true&locale=en&layout=compact" alt="JesusIgnacio" />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusIgnacio" alt="JesusIgnacio" /> </a></p>
