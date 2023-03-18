@@ -1,6 +1,6 @@
 Hey you😄 
 
-I'm a Software Engineer who loves to build awesome stuff with code always as it possible.
+I'm a Software Engineer who loves to build awesome stuff with code always as possible.
 
 I speak : EN/ES
 
